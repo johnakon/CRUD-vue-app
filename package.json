@@ -1,0 +1,15 @@
+{
+  "name": "crud1",
+  "version": "1.0.0",
+  "description": "A crud Application using Vue, Node and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Akonya John",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
